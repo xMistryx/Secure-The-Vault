@@ -2,12 +2,10 @@ let code1
 code1 = 7 + 3
 //console.log(code1);
 
-let code2
-code2 = 86 /  2 - 3
+let code2 = 86 /  2 - 3
 //console.log(code2);
 
-let code3 
-code3 = 53 % 5 * 13
+let code3 = 53 % 5 * 13
 //console.log(code3);
 
 let message = "The vault has been secured. The combination is:"
